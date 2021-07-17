@@ -22,3 +22,6 @@ PS: That's the extent of my poetry
 
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=git-pi-e&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=git-pi-e&langs_count=9)](https://github.com/anuraghazra/github-readme-stats)
+
